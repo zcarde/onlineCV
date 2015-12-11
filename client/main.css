@@ -1,0 +1,39 @@
+.cv-block {
+	background-color: rgb(238, 238, 238);
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: left;
+}
+.cv-block-in {
+	padding: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.tag {
+	padding: 2px;
+	background-color: rgb(200, 200, 200);
+	border: 2px solid #fff;
+	margin: 2px;
+	/*margin-right: 2px;*/
+}
+.block-mission {
+	font-weight: bold;
+}
+.block-title {
+	font-size: 25px;
+}
+
+.block-entreprise {
+	color: rgb(150, 150, 150);
+	font-size: 15px;	
+}
+
+.block-date {
+	color: rgb(150, 150, 150);
+	font-size: 15px;
+}
+
+.profil-info {
+	padding: 5px;
+}
